@@ -1,10 +1,12 @@
 ---
-title: Contact
+title: Contact Me
 layout: page
 ---
+_
+I'm on [Twitter](https://twitter.com/its_mashmellow).
 
-You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).
+My [GitHub](https://talk.jekyllrb.com/).
 
-If you need help with Jekyll, ask questions on [Jekyll Talk](https://talk.jekyllrb.com/).
+Tryhackme [Profile](https://tryhackme.com/p/ghostFace)
 
-(Change this by editing `contact.md` file)
+[LinkedIn](https://www.linkedin.com/in/charles-swaleh/)

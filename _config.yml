@@ -1,4 +1,4 @@
-title: Leaf Blog
+title: mashmellow's blog
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
 
@@ -6,8 +6,8 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  twitter: its_mashmellow
+  github: mashm3ll0w
 
 plugins:
  - jekyll-feed
