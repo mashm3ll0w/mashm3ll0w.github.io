@@ -28,7 +28,7 @@ Did you see it? **FREE!!**. All. Through. Your. Browser!!
 
 
 # Getting Started
-
+---
 * First, <span style="color:#88cc14;">[SIGNUP](https://tryhackme.com/signup?referrer=4dbcc4eeab19e33d020a9e35e39a7a8f6552f432)</span> at <span style="color:#88cc14;">**tryhackme**</span>
 
 * Secondly, enroll in the **[Pre Security](https://tryhackme.com/path/outline/presecurity)** Learning Path which teach you the pre-requisite technical knowledge to get started in cyber security.
@@ -36,6 +36,8 @@ Did you see it? **FREE!!**. All. Through. Your. Browser!!
 <br>
 
 # **[Pre Security](https://tryhackme.com/path/outline/presecurity) Learning Path**
+---
+
 <img src="assets/cyberfundamentals.png">
 <br>
 
@@ -96,7 +98,9 @@ When you get done with the <span>**Pre Security**</span> Learning Path, move on 
 
 <div style="color:#88cc14;background-color:#000f2b;padding:10px;border-radius:5px;">
 
-There is so much more to learn on the [tryhackme's](https://tryhackme.com) platform that I can't explain it all, so just head on over there, 
-[signup](https://tryhackme.com/signup?referrer=4dbcc4eeab19e33d020a9e35e39a7a8f6552f432) and be on your way to becoming the next **CyberWarrior!**
+Ready to become a Cyber Warrior?
 
 </div>
+
+<br>
+<br>
