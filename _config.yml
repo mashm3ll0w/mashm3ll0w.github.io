@@ -1,0 +1,32 @@
+title: MashMellow's Blog
+description: "Believing in my madness"
+author:
+  name: "mashmmellow"
+  email: "charlswall@live.com"
+  url: "https://github.com/mashm3ll0w"
+
+baseurl: /
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 3
+paginate_path: /page/:num/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+owner : "mashmellow"
+year : "2021"
