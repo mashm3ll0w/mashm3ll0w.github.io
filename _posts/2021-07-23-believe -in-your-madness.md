@@ -12,10 +12,24 @@ Okay, here's the watered down version:
 ## Rocket Fir...Fuel, Fuel
 Some dudes at a US University were playing around with some highly flammable shit and nearly burned their entire school dorm down. Instead of getting expelled, the school administration saw the potential that these these crazy dude had and instead, put them on some remote farm somewhere and told them to keep doing whatever it was that they were doing.
 
+
+<div align=center>
+
+  <img src="./../assets/rocketfueltoon.jpg" height=200px>
+
+</div>
+
 Now I admit, I don't know exactly how accurate this tale is, but that's not the point. The point is, **someone believed in these dumdums' madness**!. And the rest, as they say, is history.
 
 ## Hi, My Name Is...
 Scratch the academia example, here's another one that am sure (ish) you've heard. In the late 90's, there was this very well known music producer who was well known for his music production prowess and churning out hit after hit. He worked with the biggest names in the HipHop industry. Yes, ladies and gentlemen, am talking about [Dr. Dre](https://www.drdre.com/). When he signed a little known white rapper, [Eminem](https://www.eminem.com/) everyone thought he was crazy. But that was him believing in Em's madness (although this could've been the literal madness). Everyone thought Dre was mad (did you see that? haha). The [Slim Shady LP](https://en.wikipedia.org/wiki/The_Slim_Shady_LP) dropped and again, history.
+
+
+<div align=center>
+
+<img src="./../assets/my-name-is.jpeg" width=200px>
+
+</div>
 
 Okay, I admit, maybe I should change the title to **Have Someone Believe In Your Madness** but then we'd all end up in an asylum because, come-on....you know what I mean?**
 
