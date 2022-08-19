@@ -17,7 +17,7 @@ First off, a couple of things to take into consideration;
 
 - [x] Safaricom aren't at fault for the security measure they use to protect the PDF they sen(t/d) you.
 
-- I don't know if sen(t/d) is a real thing.
+- [x] I don't know if sen(t/d) is a real thing.
 
 - [x] This is a basic demonstration on bruteforcing and scripting.
 
@@ -39,7 +39,7 @@ A quick search online reveals that the ID number has 8 digits. That makes the po
 
 Yes, that's 100 million possible passwords. But that's a way overestimated number because I doubt we have someone with the ID number 00000001. I think the ID numbers would start getting valid past the 1000 mark, and that is just for those old folks, like the pre-independence day folks. 
 
-The new generation IDs start at 20000000 - 40000000 mark. That leaves us with a wordlist of 20,000,000.
+The new generation IDs start at 20000000 - 40000000 mark. That leaves us with a wordlist of 20,000,000 numbers.
 
 To generate the wordlist(numberlist?id_list?eh), we use a basic python script:
 ```
@@ -59,3 +59,9 @@ Running ``john`` with the hash and the wordlist/id_list/numberlist takes less th
 ``john pdf.hash --wordlist=id_list.txt``
 
 Aaaaaand voila!
+
+<br>
+
+### Conclusion
+
+- Strengthen your email security; use MFA.
