@@ -49,3 +49,13 @@ with open("id_list.txt", "w") as file:
 ```
 
 The above code takes 6 seconds to run and generates a file of 172mbs.
+
+<br>
+
+### Cracking the PDF hash
+
+Running ``john`` with the hash and the wordlist/id_list/numberlist takes less that 4 seconds to find the password.
+
+``john pdf.hash --wordlist=id_list.txt``
+
+Aaaaaand voila!
