@@ -23,3 +23,29 @@ First off, a couple of things to take into consideration;
 
 - [x] This assumes that a third party has access to your email (change your passwords and use MFA).
 
+<br>
+
+### Getting a hash of the protected PDF
+
+We use [John The Ripper](https://github.com/openwall/john)'s _pdf2john_ to get a hash of the PDF file.
+
+``./pdf2john.pl mpesa-statement.pdf > pdf.hash``
+
+<br>
+
+### Generate a wordlist for all possible ID number combinations.
+
+A quick search online reveals that the ID number has 8 digits. That makes the possible number of passwords for the PDF to be **10<sup>8</sup> = 100,000,000**.
+
+Yes, that's 100 million possible passwords. But that's a way overestimated number because I doubt we have someone with the ID number 00000001. I think the ID numbers would start getting valid past the 1000 mark, and that is just for those old folks, like the pre-independence day folks. 
+
+The new generation IDs start at 20000000 - 40000000 mark. That leaves us with a wordlist of 20,000,000.
+
+To generate the wordlist(numberlist?id_list?eh), we use a basic python script:
+```
+with open("id_list.txt", "w") as file:
+    for number in range(20000000, 40000001):
+      file.write(f'{number}'\n)
+```
+
+The above code takes 6 seconds to run and generates a file of 172mbs.
