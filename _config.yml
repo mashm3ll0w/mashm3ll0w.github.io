@@ -22,11 +22,13 @@ defaults:
       layout: "post"
 
 future: true
+
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Custom variables
 owner : "mashmellow"
