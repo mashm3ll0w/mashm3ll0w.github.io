@@ -26,7 +26,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-include-cache
 
 # Custom variables
 owner : "mashmellow"
-year : "2021"
+year : "2023"
